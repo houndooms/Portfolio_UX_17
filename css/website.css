@@ -1,0 +1,77 @@
+.head {
+    display: none;
+}
+
+.link {
+    display: auto;
+}
+
+.body {
+    background-color: #AAD015;
+}
+
+.h1 {
+    padding: 25px;
+    text-decoration-color: #c2155a; 
+    font-family: 'Space Mono Bold', 'IBM Plex Mono', 'Arial';
+}
+
+.h2 {
+    padding: 25px;
+    text-decoration-color: #e4a814;
+}
+
+.inline-block
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo
+{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+
+}
+
+.button {
+    background-color: #9B61FF;
+}
+
+.nav {
+    background-color: #000000;
+    width: 73%;
+    padding: 1%;
+}
+
+.ul {
+    width: 50%;
+    margin-left: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footer {
+background-color: #373738;
+padding: 25px;
+}
+
+.li {
+    padding: 25px;
+}
+
+p {
+    text-align: center;
+
+}
